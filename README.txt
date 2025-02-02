@@ -3,14 +3,10 @@ Bonjour Monsieur,
 Vous trouverez ci-dessous le lien GitHub contenant mon rendu sur l'algorithme génétique ainsi que l'IA dans les jeux vidéo.
 
 1. Algorithme génétique
-Je vous invite à consulter les deux fichiers C# dans le dépôt Git intitulés : https://github.com/Brandorino/UE_A
 SquareScript.cs
 GenetiqueManager.cs
 But du projet :
 Un cube doit parcourir un trajet en trouvant la meilleure séquence de sauts ou de non-sauts pour atteindre la fin du parcours.
-
-Pour mieux illustrer ce fonctionnement, j'ai réalisé une vidéo explicative sur YouTube (privée), disponible via ce lien : 
-https://www.youtube.com/watch?v=I4flUJgqFF4
 
 2. IA dans les jeux vidéo
 Pour ce projet, j'ai combiné l'algorithme A* avec un jeu cellulaire simple. Voici les entités et les règles de ce système :
